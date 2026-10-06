@@ -1,0 +1,15 @@
+{
+  "name": "Xavfsiz Hayot",
+  "short_name": "Xavfsiz Hayot",
+  "description": "FVV bilan bog'langan favqulodda vaziyatlar ilovasi",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#F6F4EF",
+  "theme_color": "#14213D",
+  "lang": "uz",
+  "icons": [
+    { "src": "./icon.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "any maskable" }
+  ]
+}
